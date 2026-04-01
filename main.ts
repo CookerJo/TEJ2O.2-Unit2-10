@@ -31,20 +31,20 @@ input.onButtonPressed(Button.A, function () {
 // if lightlevel is greater then 104 the color turns red 
     if (lightLevels > 104) {
 
-        myNeopixelStrip.setPixelColor(1, neopixel.colors(NeoPixelColors.Red))
+        myNeopixelStrip.setPixelColor(1, neopixel.colors(NeoPixelColors.Orange))
 
     }
 
 // if lightlevel is greater then 156 the color turns red 
     if (lightLevels > 156) {
 
-        myNeopixelStrip.setPixelColor(2, neopixel.colors(NeoPixelColors.Red))
+        myNeopixelStrip.setPixelColor(2, neopixel.colors(NeoPixelColors.Yellow))
 
     }
     
 // if lightlevel is greater then 208 the color turns red 
     if (lightLevels > 208) {
-        myNeopixelStrip.setPixelColor(3, neopixel.colors(NeoPixelColors.Red))
+        myNeopixelStrip.setPixelColor(3, neopixel.colors(NeoPixelColors.Green))
 
     }
 
