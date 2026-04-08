@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Josiah
+ * Created by: Josiah R
  * Created on: March 2026
  * This program will change to the color to depending on the light level
 */
